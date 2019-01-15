@@ -11,7 +11,7 @@ public static void main(String[] args) {
 
 String message = "Your a Bot!";
 System.out.println(message);
-
+git clone git@ssh.git.tech.io:cg3116343/playground-8sqzl426.git
 //{ autofold
 }
 
